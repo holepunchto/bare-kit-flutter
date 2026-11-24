@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "bare-kit-flutter",
+  "devDependencies": {
+    "prettier": "^3.9.10",
+    "prettier-config-holepunch": "^2.0.0"
+  }
+}

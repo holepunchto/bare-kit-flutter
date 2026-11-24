@@ -1,0 +1,10 @@
+.dart_tool/
+.github/
+.gitattributes
+.gitignore
+.prettierrc
+build/
+node_modules
+package-lock.json
+package.json
+pubspec.lock
