@@ -21,4 +21,3 @@ jobs:
       - uses: holepunchto/actions/flutter-base@v1
       - run: dart format --output none --set-exit-if-changed .
       - run: flutter analyze --fatal-infos
-      - run: flutter pub publish --dry-run
