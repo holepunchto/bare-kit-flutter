@@ -39,9 +39,9 @@ String _resolveAsset(String key) {
 
   final data = Uri(path: 'data/flutter_assets/$key');
 
-  return File(Platform.resolvedExecutable).parent.uri
-      .resolveUri(data)
-      .toFilePath();
+  return File(
+    Platform.resolvedExecutable,
+  ).parent.uri.resolveUri(data).toFilePath();
 }
 
 // Kept for as long as the process lives, as the application context does.
