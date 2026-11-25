@@ -1,6 +1,6 @@
 name: bare_kit_flutter
 description: Flutter support for Bare Kit, which runs Bare in a thread of its own within the application.
-version: 0.0.0
+version: 0.1.0
 homepage: https://github.com/holepunchto/bare-kit-flutter
 repository: https://github.com/holepunchto/bare-kit-flutter
 issue_tracker: https://github.com/holepunchto/bare-kit-flutter/issues
